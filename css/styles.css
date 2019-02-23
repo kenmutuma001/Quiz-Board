@@ -3,7 +3,7 @@
   padding-bottom: 800px;
 }
 .h1 {
-  color: orange;
+  color: ;
   text-align: center;
   font-size: 60px;
 }
@@ -11,7 +11,7 @@
   background-color: black;
 }
 .jumbo {
-  background-color: blue;
+  background-color: rgba(200,0,0,0.5);
   border-radius: 8em;
 }
 .cont {
