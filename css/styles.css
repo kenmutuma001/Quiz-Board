@@ -1,0 +1,19 @@
+.bkgrnd {
+  background-image: url(https://www.planwallpaper.com/static/images/8ccb4ec4225b290726ae9be975220ff4.jpg);
+  padding-bottom: 800px;
+}
+.h1 {
+  color: orange;
+  text-align: center;
+  font-size: 60px;
+}
+ container {
+  background-color: black;
+}
+.jumbo {
+  background-color: blue;
+  border-radius: 8em;
+}
+.cont {
+  background-color: rgba(200,0,0,0.5);
+}
