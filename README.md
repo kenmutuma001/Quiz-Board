@@ -9,7 +9,7 @@ A website that lets user answer multiple questions and displays their results in
    * GIT
    * GITHUB
    * JAVASCRIPT
-   * jQERY
+   * jQUERY
    * CSS
 #### HOW TO ACCESS THE PROJECT
 One can access the project through the gh-pages link provided above.
