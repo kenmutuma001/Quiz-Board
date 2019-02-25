@@ -10,7 +10,7 @@ $(document).ready(function() {
     var Q5= $("input:radio[name=naming]:checked").val();
 
     var total=parseInt(Q1)+parseInt(Q2)+parseInt(Q3)+parseInt(Q4)+parseInt(Q5);
-    $("#total").text("Congratulations!"+"this is your score"+ total);
+    $("#total").text("Congratulations!"+"this is your score "+ total);
 
 
   //==== user Interface ====//
