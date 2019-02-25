@@ -15,9 +15,13 @@
   border-radius: 8em;
 }
 .cont {
-  background-color: rgba(0,0,200,0.5);
+  background-color: rgba(0,200,0,0.5);
 }
 .form {
   text-align: left;
   font-size: 20px;
+}
+#total{
+  font-size: 40px;
+  font-style: italic;
 }
